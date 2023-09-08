@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+h1 {
+    color: rgb(255, 165, 55);
+    font-family:monospace;
+    text-shadow: 2px 2px 10px 5px #ffcd69;
+}
+
+a {
+    color:rgb(0, 110, 255)
+} 
+
+a:hover {
+    color:rgb(124, 209, 255);
+}
+
+div {
+    color:white;
+    font-family:monospace;
+    font-size: large;
+}
